@@ -1,11 +1,12 @@
+
 <html>
     <head>
-
-    </head>
         <title>les go</title>
+    </head>
+        
     <body>
         <h1>home</h1>
-        <p>This is my home page</p>
+        <p>This is my home page <a href=""></a></p>
         <h3>lmao deez nutes</h3>
         <ul>
             <li>mmm</li>
